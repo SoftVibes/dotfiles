@@ -1,0 +1,8 @@
+mainbox {
+  children: [listview];
+}
+
+listview {
+	lines: 3;
+  background-color: #000000;
+}
